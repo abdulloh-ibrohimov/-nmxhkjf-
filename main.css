@@ -1,0 +1,32 @@
+.f{
+    width: 100px;
+    height:100px ;
+   
+}
+.e{
+    display: flex;
+    margin-top: 50px;
+    
+}
+h1{
+   margin-left: 200px;
+  
+}
+.p{
+    display: flex;
+}
+.b{
+    background-color: red;
+    width: 170px ;
+    height: 170px;
+    margin-right: 70px;
+    margin-left: 50px;
+    color: white;
+}
+.n{
+    background-color: red;
+    width: 170px ;
+    height: 170px;
+    color: white;
+    
+}
